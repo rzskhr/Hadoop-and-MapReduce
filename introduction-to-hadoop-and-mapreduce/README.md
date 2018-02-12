@@ -4,7 +4,7 @@ The content and code blocks in this directory are referred from Udacity's [Intro
 
 ### Execute the projects in Oracle virtual box, follow the steps to setup:
 1. Download and install [Oracle Virtual Box](https://www.virtualbox.org/wiki/Downloads).
-2. Create a new *Linux* virtual machine.
+2. Create a new **Linux** virtual machine.
 3. Load the [VM](http://content.udacity-data.com/courses/ud617/Cloudera-Udacity-Training-VM-4.1.1.c.zip) which also includes datasets and environment setup.
 
 <br/><br/>
