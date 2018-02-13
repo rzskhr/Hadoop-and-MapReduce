@@ -18,5 +18,5 @@ for line in sys.stdin:
     count += 1
     total += float(thisSale)
 
-print("Total:\t", total, "\nCount:\t", count)
+print "Total:\t", total, "\nCount:\t", count
 

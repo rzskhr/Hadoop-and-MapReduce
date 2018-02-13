@@ -12,5 +12,5 @@ for line in sys.stdin:
     if url == '':
         i += 1
 
-print(i)
+print i
 

@@ -12,4 +12,4 @@ for line in sys.stdin:
 
         date, time, store, item, cost, payment = data
 
-        print("{0}\t{1}".format(item, cost))
+        print "{0}\t{1}".format(item, cost)

@@ -12,4 +12,4 @@ for line in sys.stdin:
         # ip_address, identity, username, date_time, time_zone, request_method, path, protocol_name, status_code, \
         #         obj_size = data
 
-        print(data[6])
+        print data[6]

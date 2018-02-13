@@ -16,7 +16,7 @@ for line in sys.stdin:
     thisKey, thisSale = data_mapped
 
     if oldKey and oldKey != thisKey:
-        print(oldKey, "\t", highest_sale)
+        print oldKey, "\t", highest_sale
         oldKey = thisKey
         highest_sale = 0
 
@@ -26,4 +26,4 @@ for line in sys.stdin:
         highest_sale = float(thisSale)
 
 if oldKey != None:
-    print(oldKey, "\t", highest_sale)
+    print oldKey, "\t", highest_sale
