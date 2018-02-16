@@ -22,7 +22,7 @@ def mapper():
 
     text_list.sort(key=lambda s: len(s[4]))
 
-    print text_list
+    # print text_list
 
     text_list = text_list[-10:]
 
