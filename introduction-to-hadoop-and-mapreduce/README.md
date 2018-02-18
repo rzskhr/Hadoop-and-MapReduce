@@ -1,6 +1,12 @@
 # Introduction to Hadoop and MapReduce
 The content and code blocks in this directory are referred from Udacity's [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) course.
 
+### Course Content
+- Big Data
+- HDFS and MapReduce
+- MapReduce Code
+- mapReduce Design Patterns
+
 
 ### Execute the projects in Oracle virtual box, follow the steps to setup:
 1. Download and install [Oracle Virtual Box](https://www.virtualbox.org/wiki/Downloads).
