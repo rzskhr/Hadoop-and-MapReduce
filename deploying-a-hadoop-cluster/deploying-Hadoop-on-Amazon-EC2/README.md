@@ -26,5 +26,7 @@ At the end of the process, you’ll be prompted to create and download a private
 - Then save all the work on an image.
 - After that [Launch Cluster nodes from the image](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/deploying-Hadoop-on-Amazon-EC2/launching-nodes-from-image.md).
 - [Configure the Hadoop Cluster](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/deploying-Hadoop-on-Amazon-EC2/configure-hadoop-cluster.md).
+- [Launch Hadoop Cluster](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/deploying-Hadoop-on-Amazon-EC2/launch-hadoop-cluster.md).
+- [Test](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/deploying-Hadoop-on-Amazon-EC2/test-hadoop-cluster.md).
 <br/><br/><br/><br/>
 [reference](https://classroom.udacity.com/courses/ud1000/lessons/7427734703/concepts/74229414570923)
