@@ -15,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/launching-EC2-instance.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
-                <caret line="25" column="99" lean-forward="false" selection-start-line="25" selection-start-column="99" selection-end-line="25" selection-end-column="99" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="93" lean-forward="false" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -120,8 +120,8 @@
     <entry file="file://$PROJECT_DIR$/launching-EC2-instance.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="25" column="99" lean-forward="false" selection-start-line="25" selection-start-column="99" selection-end-line="25" selection-end-column="99" />
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="93" lean-forward="false" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
             <folding />
           </first_editor>
           <second_editor>
