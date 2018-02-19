@@ -11,12 +11,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="launching-EC2-instance.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/launching-EC2-instance.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deploying-Hadoop-on-Amazon-EC2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              <first_editor relative-caret-position="450">
+                <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -26,27 +26,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="launching-nodes-from-image.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/launching-nodes-from-image.md">
+      <file leaf-file-name="configure-hadoop-cluster.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deploying-Hadoop-on-Amazon-EC2/configure-hadoop-cluster.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="further-steps.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/further-steps.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="709">
-                <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <first_editor relative-caret-position="-926">
+                <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -64,6 +49,8 @@
         <option value="$PROJECT_DIR$/further-steps.md" />
         <option value="$PROJECT_DIR$/launching-EC2-instance.md" />
         <option value="$PROJECT_DIR$/launching-nodes-from-image.md" />
+        <option value="$PROJECT_DIR$/deploying-Hadoop-on-Amazon-EC2/README.md" />
+        <option value="$PROJECT_DIR$/deploying-Hadoop-on-Amazon-EC2/configure-hadoop-cluster.md" />
       </list>
     </option>
   </component>
@@ -95,6 +82,11 @@
               <item name="deploying-a-hadoop-cluster" type="b2602c69:ProjectViewProjectNode" />
               <item name="deploying-a-hadoop-cluster" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="deploying-a-hadoop-cluster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deploying-a-hadoop-cluster" type="462c0819:PsiDirectoryNode" />
+              <item name="deploying-Hadoop-on-Amazon-EC2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,6 +111,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="ToolWindowManager">
     <frame x="2018" y="-64" width="1599" height="929" extended-state="0" />
@@ -180,6 +175,45 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="390">
             <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploying-Hadoop-on-Amazon-EC2/launching-EC2-instance.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploying-Hadoop-on-Amazon-EC2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploying-Hadoop-on-Amazon-EC2/configure-hadoop-cluster.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-926">
+            <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor>

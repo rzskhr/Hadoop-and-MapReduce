@@ -22,8 +22,9 @@ After logging in, choose a region that is closest to you shown here.<br/><br/>
 <br/><br/>
 At the end of the process, you’ll be prompted to create and download a private key. This key will allow you to connect to your instances with SSH. If you don’t download this, or delete it somehow, you won’t be able to connect to your cluster. If you lose it, don’t panic, but you’ll have to shut down the instances and start up new ones. Name it whatever you like, I just used “hadoop.” Click “View Instances” to see your instance booting up in the EC2 dashboard. You'll want to write down the public hostname, called “Public DNS” on the instance panel.
 
-- After this is done, follow [further-steps](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/further-steps.md).
+- After this is done, follow [further-steps](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/deploying-Hadoop-on-Amazon-EC2/further-steps.md).
 - Then save all the work on an image.
-- After that [Launch Cluster nodes from the image](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/launching-nodes-from-image.md).
+- After that [Launch Cluster nodes from the image](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/deploying-Hadoop-on-Amazon-EC2/launching-nodes-from-image.md).
+- [Configure the Hadoop Cluster](https://github.com/rzskhr/Hadoop-and-MapReduce/blob/master/deploying-a-hadoop-cluster/deploying-Hadoop-on-Amazon-EC2/configure-hadoop-cluster.md).
 <br/><br/><br/><br/>
 [reference](https://classroom.udacity.com/courses/ud1000/lessons/7427734703/concepts/74229414570923)
